@@ -49,19 +49,21 @@ Localised demo databases used in Tokyo
 
 グラフのスタイルシートが一新され，個別のエレメントにIDでアクセスできるようになりました。
 
-### PART II
+### [PART II](https://github.com/4D-JP/event-developer-conference-2012/blob/master/keynote-2.pdf)
 
-* ソースツールキット
-* HTTPサーバー
-* HTTPクライアント
+[ソースツールキット](https://github.com/4D-JP/event-developer-conference-2012/blob/master/Source%20Toolkit.4dbase.zip)
 
 今回の目玉!! 本格的な開発支援コンポーネントです。
 
+[HTTPサーバー](https://github.com/4D-JP/event-developer-conference-2012/blob/master/WebGetBodyPart.4dbase.zip)
+
 複数のファイルアップロードがとても簡単になりました。
+
+[HTTPクライアント](https://github.com/4D-JP/event-developer-conference-2012/blob/master/HTTP_Client.4dbase.zip)
 
 ピクチャやWebページは簡単にダウンロードできます。
 
-### PART III
+### [PART III](https://github.com/4D-JP/event-developer-conference-2012/blob/master/keynote-3.pdf)
 
 * 4Dとクラウド
 * グローバルプロセス管理
