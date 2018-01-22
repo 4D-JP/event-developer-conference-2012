@@ -19,33 +19,33 @@ Localised demo databases used in Tokyo
 
 * スーパーWebエリア
 
-1. [カバー・フロー](https://github.com/4D-JP/event-developer-conference-2012/blob/master/WebKit_Integration.4dbase.zip)
+[カバー・フロー](https://github.com/4D-JP/event-developer-conference-2012/blob/master/WebKit_Integration.4dbase.zip)
 
 統合されたWebKitのおかげで，!Windows/Mac OSで安定性と一貫性のあるアプリケーションが簡単に作成できます。
 
 * リストボックス2
 
-1. [階層リストボックス](https://github.com/4D-JP/event-developer-conference-2012/blob/master/CollapseExpandEvents%20in%20LB.4dbase.zip)
+[階層リストボックス](https://github.com/4D-JP/event-developer-conference-2012/blob/master/CollapseExpandEvents%20in%20LB.4dbase.zip)
 
 ネットワークとサーバーの負荷を軽減するために，階層リストボックスに新しいイベントを追加しました。
 
-1. [エントリー・コントロール](https://github.com/4D-JP/event-developer-conference-2012/blob/master/EntryControl%20in%20LB.4dbase.zip)
+[エントリー・コントロール](https://github.com/4D-JP/event-developer-conference-2012/blob/master/EntryControl%20in%20LB.4dbase.zip)
 
 セル単位でリストボックスの入力制御ができるようになりました。
 
 * データベースエンジン
 
-1. [ドキュメント・ストレージ](https://github.com/4D-JP/event-developer-conference-2012/releases/download/1/SUMM11_LISTBOX-v2.4dbase.zip)
+[ドキュメント・ストレージ](https://github.com/4D-JP/event-developer-conference-2012/releases/download/1/SUMM11_LISTBOX-v2.4dbase.zip)
 
 画像ファイルをデータファイルの外部に保存すれば，いろいろな応用ができそうです。
 
 * ランゲージフェスタ！
 
-1. [ジャスティン・ビーバー](https://github.com/4D-JP/event-developer-conference-2012/blob/master/Language%20Fiesta.4dbase.zip)
+[ジャスティン・ビーバー](https://github.com/4D-JP/event-developer-conference-2012/blob/master/Language%20Fiesta.4dbase.zip)
 
 テキストを配列に分解したり，BLOBのハッシュを計算したり，2枚の画像を比較してマスクを抽出してみましょう。
 
-1. [グラフ](https://github.com/4D-JP/event-developer-conference-2012/blob/master/Graphs.4dbase.zip)
+[グラフ](https://github.com/4D-JP/event-developer-conference-2012/blob/master/Graphs.4dbase.zip)
 
 グラフのスタイルシートが一新され，個別のエレメントにIDでアクセスできるようになりました。
 
