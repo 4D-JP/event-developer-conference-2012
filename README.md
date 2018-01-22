@@ -107,7 +107,7 @@ Localised demo databases used in Tokyo
 質疑応答のコーナーに寄せられたリクエストは，4D Forumsにエントリーされました。  
 同意できるものがあれば，是非，積極的に投票してください♪
 
-[シングルクリックでリストボックスが入力モードに切り替えられるようにして欲しい。]](http://forums.4d.fr/Post//7465825/1/)
+[シングルクリックでリストボックスが入力モードに切り替えられるようにして欲しい。](http://forums.4d.fr/Post//7465825/1/)
 
 [32バイト以上のメソッド名が定義できるようにして欲しい。](http://forums.4d.fr/Post/DE/4115666/1/4115667)
 
@@ -123,7 +123,7 @@ Localised demo databases used in Tokyo
 
 [メソッド名のサイズ制限を回避するために名前空間を導入して欲しい。](http://forums.4d.fr/Post//7465964/1/)
 
-[http://forums.4d.fr/Post//7465983/1/ 4D Write (Mac OS) でインライン入力をサポートして欲しい。]　
+[4D Write (Mac OS) でインライン入力をサポートして欲しい。]　(http://forums.4d.fr/Post//7465983/1/)
 
 ![v13](https://user-images.githubusercontent.com/10509075/35231558-82a232e2-ffdc-11e7-9ef4-316dfb74a8cd.png)
 
