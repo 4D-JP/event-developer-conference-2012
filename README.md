@@ -69,7 +69,7 @@ Localised demo databases used in Tokyo
 * グローバルプロセス管理
 * 内側を覗いてみよう
 
-### OPTIMISATION
+### [OPTIMISATION](https://github.com/4D-JP/event-developer-conference-2012/blob/master/optimisation.pdf)
 
 * データベースを速くすること
 * 最適化をしない!?
@@ -89,6 +89,8 @@ Localised demo databases used in Tokyo
 * セットと命名セレクションのスコープ
 * プリエムプティブになりましょう!
 * インデックスが遅さの原因に?
+
+[論考](https://github.com/4D-JP/event-developer-conference-2012/blob/master/optimisation_notes.pdf)
 
 ### Wakanda
 
