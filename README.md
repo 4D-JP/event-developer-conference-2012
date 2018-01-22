@@ -92,16 +92,28 @@ Localised demo databases used in Tokyo
 
 [論考](https://github.com/4D-JP/event-developer-conference-2012/blob/master/optimisation_notes.pdf)
 
-### Wakanda
+### [Wakanda](https://github.com/4D-JP/event-developer-conference-2012/blob/master/wakanda.pdf)
 
 #### all sessions performed by
 
 4D SAS シニア・ソフトウェア・エヴァンジェリスト  
 ティボウ・アルギエール  
 
-### リストボックス
+### [リストボックス](https://github.com/4D-JP/event-developer-conference-2012/blob/master/listbox.pdf)
 
-### HTTP
+[概観](https://github.com/4D-JP/event-developer-conference-2012/blob/master/4D%20Listboxes.4dbase.zip)
+
+[新しいイベント](https://github.com/4D-JP/event-developer-conference-2012/blob/master/LB_NewEvent.4dbase.zip)
+
+[論考](https://github.com/4D-JP/event-developer-conference-2012/blob/master/listbox_notes.pdf)
+
+### [HTTP](https://github.com/4D-JP/event-developer-conference-2012/blob/master/http.pdf)
+
+[HTTP Client](https://github.com/4D-JP/event-developer-conference-2012/blob/master/HTTP_Client_v13.4dbase.zip)
+
+[HTTP Server](https://github.com/4D-JP/event-developer-conference-2012/blob/master/HTTP_Server_v13.zip)
+
+[論考](https://github.com/4D-JP/event-developer-conference-2012/blob/master/http_notes.pdf)
 
 ### 新機能
 
@@ -113,11 +125,23 @@ Localised demo databases used in Tokyo
 
 ### 運用管理
 
-### アップグレードの近道
+[ツール](https://github.com/4D-JP/event-developer-conference-2012/blob/master/Tools.zip)
+
+[データベース](https://github.com/4D-JP/event-developer-conference-2012/blob/master/Databases.zip)
+
+[前編](https://github.com/4D-JP/event-developer-conference-2012/blob/master/admin-1.pdf)
+
+[後編](https://github.com/4D-JP/event-developer-conference-2012/blob/master/admin-2.pdf)
+
+[論考](https://github.com/4D-JP/event-developer-conference-2012/blob/master/admin_notes.pdf)
+
+### [アップグレードの近道](https://github.com/4D-JP/event-developer-conference-2012/blob/master/migration.pdf)
 
 * Unicode
 * 4D Open Component
 * 4D Draw
+
+[論考](https://github.com/4D-JP/event-developer-conference-2012/blob/master/migration_notes.pdf)
 
 ### フィーチャー・リクエスト
 
