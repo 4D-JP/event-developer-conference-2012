@@ -117,11 +117,9 @@ Localised demo databases used in Tokyo
 
 ### 新機能
 
-### 同期と複製
+### [同期と複製](https://github.com/4D-JP/event-developer-conference-2012/releases/download/2/replication.pdf)
 
-* セットアップ
-* メカニズム
-* SQLとHTTP
+[論考](https://github.com/4D-JP/event-developer-conference-2012/blob/master/replication_notes.pdf)
 
 ### 運用管理
 
