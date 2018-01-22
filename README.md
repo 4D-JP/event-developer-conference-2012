@@ -115,7 +115,13 @@ Localised demo databases used in Tokyo
 
 [論考](https://github.com/4D-JP/event-developer-conference-2012/blob/master/http_notes.pdf)
 
-### 新機能
+### [新機能](https://github.com/4D-JP/event-developer-conference-2012/blob/master/new.pdf)
+
+[コンパイルコンポーネント](https://github.com/4D-JP/event-developer-conference-2012/blob/master/new-1.zip)
+
+[テキスト関連](https://github.com/4D-JP/event-developer-conference-2012/blob/master/new-2.zip)
+
+[ピクチャ関連](https://github.com/4D-JP/event-developer-conference-2012/blob/master/new-3.zip)
 
 ### [同期と複製](https://github.com/4D-JP/event-developer-conference-2012/releases/download/2/replication.pdf)
 
