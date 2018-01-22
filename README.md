@@ -123,7 +123,7 @@ Localised demo databases used in Tokyo
 
 [メソッド名のサイズ制限を回避するために名前空間を導入して欲しい。](http://forums.4d.fr/Post//7465964/1/)
 
-[4D Write (Mac OS) でインライン入力をサポートして欲しい。]　(http://forums.4d.fr/Post//7465983/1/)
+[4D Write (Mac OS) でインライン入力をサポートして欲しい。](http://forums.4d.fr/Post//7465983/1/)
 
 ![v13](https://user-images.githubusercontent.com/10509075/35231558-82a232e2-ffdc-11e7-9ef4-316dfb74a8cd.png)
 
